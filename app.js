@@ -8,4 +8,4 @@ else{
     console.log('large number')
 }
 
-console.log('hey its my first nude app')
+console.log('hey its my first node app')
